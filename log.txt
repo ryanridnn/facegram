@@ -1,0 +1,7 @@
+[1m[7m%[27m[1m[0m                                                                                ]2;rory@rory-ridwan:~/Local/code/projects/fb-clone]1;..ects/fb-clone
+[01;37mrory[00m@rory-ridwan [01;37m~/Local/code/projects/fb-clone[00m                       [8:29:34]
+[0m[27m[24m[J> [32m$[00m [K[62C [[01;32m±[00m[01;37mmaster [01;33m●[00m[01;31m●[00m[00m][75D[?1h=[?2004hffor f  pprettier write      --write ./src/components/ActionListPopup/index.s js[?1l>[?2004l
+]2;prettier --write ./src/components/ActionListPopup/index.js]1;prettiersrc/components/ActionListPopup/index.js[2K[1G[90msrc/components/ActionListPopup/index.js[39m 47ms
+[1m[7m%[27m[1m[0m                                                                                ]2;rory@rory-ridwan:~/Local/code/projects/fb-clone]1;..ects/fb-clone
+[01;37mrory[00m@rory-ridwan [01;37m~/Local/code/projects/fb-clone[00m                       [8:30:01]
+[0m[27m[24m[J> [32m$[00m [K[62C [[01;32m±[00m[01;37mmaster [01;33m●[00m[01;31m●[00m[00m][75D[?1h=[?2004h> 

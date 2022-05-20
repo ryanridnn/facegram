@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.story-shadow {
+	box-shadow: inset 0 64px 64px 0.4px rgba(0, 0, 0, 0.4);
+}
+
+.stories .swiper-slide {
+	height: 83vh !important;
+	width: calc(83vh / 16 * 9) !important;
+	z-index: 1;
+}
+
+.user-with-story .swiper-slide {
+	width: 5.5rem !important;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.story-size {
+	height: 83vh;
+	width: calc(83vh / 16 * 9);
+}
+
+@media screen and (max-width: 640px) {
+	.user-with-story .swiper-slide {
+		width: 4.5rem !important;
+	}
+}
