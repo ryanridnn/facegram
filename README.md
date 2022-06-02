@@ -35,7 +35,7 @@ Take a look at the [live demo](https://projext-245c6.web.app/) site here &nbsp; 
 3. Install JS dependencies
 
    ```sh
-   yarn
+   yarn install
    ```
 
 4. Start the dev server
